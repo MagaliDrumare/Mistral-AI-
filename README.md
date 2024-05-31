@@ -8,3 +8,8 @@ https://mistral.ai/fr/
 
 ### Mistral Chat 
 https://chat.mistral.ai/chat
+
+### Mistral Codestral 
+https://mistral.ai/news/codestral/
+-You can try Codestral now on Le Chat: http://chat.mistral.ai!
+ 
