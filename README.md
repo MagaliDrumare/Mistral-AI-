@@ -1,7 +1,10 @@
 # Mistral-AI-
 
-### Mistral 
+### getting Started with Mistral 
 https://learn.deeplearning.ai/courses/getting-started-with-mistral
+
+### Mistral Cookbook 
+https://github.com/mistralai/cookbook/tree/main
 
 ### Site Mistral 
 https://mistral.ai/fr/
