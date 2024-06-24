@@ -1,6 +1,7 @@
 # Mistral-AI-
+Mistral AI est une entreprise française fondée en avril 2023, spécialisée dans l'intelligence artificielle générative. Elle développe des grands modèles de langages open-source et propriétaires.
 
-### getting Started with Mistral 
+### Getting Started with Mistral 
 https://learn.deeplearning.ai/courses/getting-started-with-mistral
 
 ### Mistral Cookbook 
